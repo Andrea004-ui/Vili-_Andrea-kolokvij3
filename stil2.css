@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("slike/ruze.jpg");
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: cadetblue;
+	
+}

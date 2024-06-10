@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+   color: black;
+   font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+   font-size: 16px;
+   line-height: 18px;
+   width: 1400px;
+   background-color: mistyrose;
+   opacity: 0.9;
+   padding: 20px;
+}
+.paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: cadetblue;
+}
+
+body {
+  background-color: #FFFAF0;
+ 
+}
+body{
+	background-image: url("slike/pozadina2.jpg");
+}
+
