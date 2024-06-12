@@ -11,7 +11,7 @@ p {
    padding: 20px;
 }
 @font-face {
-  font-family: "AndreaVilic", serif;
+  font-family: "AndreaVilic", sans-serif; 
 	src:url("vjezba1/AndreaVilicvj.ttf")
 	
 }
