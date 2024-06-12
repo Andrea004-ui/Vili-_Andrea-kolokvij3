@@ -12,7 +12,7 @@ p {
 }
 @font-face {
   font-family: "AndreaVilic", sans-serif; 
-	src:url ("vjezba1/AndreaVilicvj.ttf")
+src:url("vjezba1/AndreaVilicvj.ttf")
 	
 }
 .paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)}
