@@ -11,7 +11,7 @@ p {
    padding: 20px;
 }
 @font-face {
-  font-family: "AndreaVilic", sens-serif; 
+  font-family: "AndreaVilic", sans-serif; 
 src:url("vjezba1/AndreaVilicvj.ttf")
 	
 }
@@ -29,7 +29,7 @@ body{
 	background-image: url("slike/pozadina2.jpg");
 }
 .p1 {
-  font-family: "AndreaVilic", serif;
+  font-family: "AndreaVilic", sans-serif;
 	
 }
 
