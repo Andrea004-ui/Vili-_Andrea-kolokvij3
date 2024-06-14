@@ -10,15 +10,16 @@ p {
    opacity: 0.9;
    padding: 20px;
 }
-h1{
-  font-family: "AndreaVilic";
-src:url("vjezba1/AndreaVilicvj.ttf"); 
-	
-}
+
 .paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)}
 h1, h2 {
 	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
 	color: cadetblue;
+}
+	
+@font-face {
+  font-family: "AndreaVilic";
+src: url("vjezba1/AndreaVilicvj.ttf") format("truetype");	
 }
 
 body {
