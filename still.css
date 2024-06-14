@@ -21,6 +21,9 @@ h1, h2 {
   font-family: "AndreaVilic";
 src: url("vjezba1/AndreaVilicvj.ttf") format("truetype");	
 }
+h1 {
+	font-family: "AndreaVilicvj.ttf", sans-serif;
+}
 
 body {
   background-color: #FFFAF0;
